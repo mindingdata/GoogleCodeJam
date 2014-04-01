@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2013", "2013", "{0BD832CE-1658-4872-8994-500F2BFE2390}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemA", "2013\ProblemA\ProblemA.csproj", "{0CE47E2F-2287-445A-999C-04BE7D522A1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CE47E2F-2287-445A-999C-04BE7D522A1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CE47E2F-2287-445A-999C-04BE7D522A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CE47E2F-2287-445A-999C-04BE7D522A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CE47E2F-2287-445A-999C-04BE7D522A1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0CE47E2F-2287-445A-999C-04BE7D522A1E} = {0BD832CE-1658-4872-8994-500F2BFE2390}
+	EndGlobalSection
+EndGlobal
