@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2013", "2013", "{0BD832CE-1658-4872-8994-500F2BFE2390}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemA", "2013\ProblemA\ProblemA.csproj", "{0CE47E2F-2287-445A-999C-04BE7D522A1E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2013.Qualification.ProblemA", "2013\ProblemA\2013.Qualification.ProblemA.csproj", "{0CE47E2F-2287-445A-999C-04BE7D522A1E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2009", "2009", "{BA364199-5F23-4780-87D2-7ECB47C32C7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2009.Qualification.ProblemA", "2009\2009.Qualification.ProblemA\2009.Qualification.ProblemA.csproj", "{3C11BA2C-0381-4614-8587-6E4DB4BCE4F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,11 +19,16 @@ Global
 		{0CE47E2F-2287-445A-999C-04BE7D522A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CE47E2F-2287-445A-999C-04BE7D522A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CE47E2F-2287-445A-999C-04BE7D522A1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C11BA2C-0381-4614-8587-6E4DB4BCE4F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C11BA2C-0381-4614-8587-6E4DB4BCE4F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C11BA2C-0381-4614-8587-6E4DB4BCE4F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C11BA2C-0381-4614-8587-6E4DB4BCE4F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{0CE47E2F-2287-445A-999C-04BE7D522A1E} = {0BD832CE-1658-4872-8994-500F2BFE2390}
+		{3C11BA2C-0381-4614-8587-6E4DB4BCE4F7} = {BA364199-5F23-4780-87D2-7ECB47C32C7A}
 	EndGlobalSection
 EndGlobal

@@ -7,8 +7,8 @@
     <ProjectGuid>{0CE47E2F-2287-445A-999C-04BE7D522A1E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ProblemA</RootNamespace>
-    <AssemblyName>ProblemA</AssemblyName>
+    <RootNamespace>_2013.Qualification.ProblemA</RootNamespace>
+    <AssemblyName>2013.Qualification.ProblemA</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

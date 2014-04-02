@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace ProblemA
+namespace _2013.Qualification.ProblemA
 {
 	class Program
 	{
